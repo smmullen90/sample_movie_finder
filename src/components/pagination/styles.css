@@ -1,0 +1,15 @@
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.875rem;
+  margin: 16px 0;
+}
+
+.pagination__link {
+  text-decoration: none;
+  color: var(--blue);
+}
+
+.pagination__link:hover {
+  color: var(--blue--light);
+}

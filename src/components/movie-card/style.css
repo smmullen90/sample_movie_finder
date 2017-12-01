@@ -1,0 +1,33 @@
+.mc {
+  border-radius: 4px;
+  box-shadow: 0px 0px 4px rgba(150, 150, 150, 0.5);
+  overflow: hidden;
+}
+
+.mc__img--default {
+  background-color: var(--gray--light);
+  padding-bottom: 56.33%;
+}
+
+.mc__img {
+  display: block;
+  width: 100%;
+}
+
+.mc__inner {
+  padding: 10px;
+}
+
+.mc__title {
+  margin: 0 0 0.125rem;
+}
+
+.mc__lang {
+  color: var(--gray--dark);
+  font-size: 0.725em;
+  margin-left: 0.5em;
+}
+
+.mc__year {
+  margin: 0;
+}
